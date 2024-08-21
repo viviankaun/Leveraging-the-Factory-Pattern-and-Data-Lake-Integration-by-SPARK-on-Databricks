@@ -5,7 +5,7 @@ This repository showcases an advanced data engineering project using Apache Spar
 ### File List  
 
 ### apple_analysis.ipynb:
--Implements an ETL pipeline to analyze customer behavior, focusing on those who bought AirPods shortly after purchasing an iPhone. 
+- Implements an ETL pipeline to analyze customer behavior, focusing on those who bought AirPods shortly after purchasing an iPhone. 
 
 ### loader_factory.ipynb:
 - Defines an abstract class DataSink and its implementation LoadToDBFS for loading data into storage systems like DBFS.
@@ -14,6 +14,6 @@ This repository showcases an advanced data engineering project using Apache Spar
 ###loader.ipynb:
 - Defines loaders (AbstractLoader, AirPodsAfterIphoneLoader) for saving transformed data, particularly related to AirPods and iPhones, into a target storage location.
 ### reader_factory.ipynb:
-Implements data source readers (CSVDataSource, ORCDataSource, DeltaDataSource) for ingesting data in different formats into Spark DataFrames.
+- Implements data source readers (CSVDataSource, ORCDataSource, DeltaDataSource) for ingesting data in different formats into Spark DataFrames.
 ### transform.ipynb:
 - Provides transformation logic (AirpodsAfterIphoneTransformer, OnlyAirpodsAndIphone) to filter and analyze transaction data, focusing on customers who bought AirPods after purchasing an iPhone.
