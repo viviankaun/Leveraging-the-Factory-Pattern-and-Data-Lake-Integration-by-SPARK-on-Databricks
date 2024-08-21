@@ -23,6 +23,6 @@ This repository showcases an advanced data engineering project using Apache Spar
 
 <img width="1029" alt="bigData-0820-class" src="https://github.com/viviankaun/Product-Analysis--by-SPARK-on-Databricks/blob/main/big_Date01.png">
 
-<img width="1029" alt="bigData-0820-class" src="https://github.com/viviankaun/Product-Analysis--by-SPARK-on-Databricks/blob/main/artition.png">
+<img width="1029" alt="bigData-0820-class" src="https://github.com/viviankaun/Product-Analysis--by-SPARK-on-Databricks/blob/main/partition.png">
 
 Setting DFS 
