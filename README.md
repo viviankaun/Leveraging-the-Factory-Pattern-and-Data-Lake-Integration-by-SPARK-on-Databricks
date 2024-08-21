@@ -17,4 +17,12 @@ This repository showcases an advanced data engineering project using Apache Spar
 - Implements data source readers (CSVDataSource, ORCDataSource, DeltaDataSource) for ingesting data in different formats into Spark DataFrames.
 ### transform.ipynb:
 - Provides transformation logic (AirpodsAfterIphoneTransformer, OnlyAirpodsAndIphone) to filter and analyze transaction data, focusing on customers who bought AirPods after purchasing an iPhone.
-<img width="1029" alt="bigData-0820-class" src="https://github.com/user-attachments/assets/fa0c7472-289f-441d-81a1-fa976475897f">
+
+
+
+
+<img width="1029" alt="bigData-0820-class" src="https://github.com/viviankaun/Product-Analysis--by-SPARK-on-Databricks/blob/main/big_Date01.png">
+
+<img width="1029" alt="bigData-0820-class" src="https://github.com/viviankaun/Product-Analysis--by-SPARK-on-Databricks/blob/main/artition.png">
+
+Setting DFS 
